@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UChicago Financial Mathematics</a>. Hyde Park, Chicago, IL 60615. (989) 665-8999. Moto. Etc.
+subtitle: <a href='#'><p>UChicago Financial Mathematics</p></a>. Hyde Park, Chicago, IL 60615. (989) 665-8999. Moto. Etc.
 
 profile:
   align: right

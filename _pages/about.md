@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'><p>UChicago Financial Mathematics</p></a>. Hyde Park, Chicago, IL 60615. (989) 665-8999. Moto. Etc.
+subtitle: <a href='#'>UChicago Financial Mathematics.</a> Hyde Park, Chicago, IL 60615. (989) 665-8999. Moto. Etc.
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

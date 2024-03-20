@@ -150,13 +150,18 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Proficient (GRE 338)",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin",
+      "fluency": "Native",
+      "icon": ""
+    }
+    {
+      "language": "Cantonese",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
